@@ -45,6 +45,7 @@ switch ($mod) {
 
 # Aktifasi mod_rewrite (.htaccess)
 <p>Mod_rewrite digunakan untuk mengubah URL dari query string menjadi SEO Friendly.</p>
+
 - Langkah awal yang harus disiapkan adalah aktivasi mod_rewrite pada webserver Apache2 pada configurasi httpd.conf.
 - Untuk mencari file "httpd.conf", kita perlu membuka folder "C:\xampp\apache\conf"
 
