@@ -65,7 +65,7 @@ switch ($mod) {
 ```
 
 ### Sekarang cara mengaksesnya menjadi:
-- Halaman View (http://http://localhost/lab4_php_modular/home)
+- Halaman Home (http://http://localhost/lab4_php_modular/home)
 - Halaman Tambah Barang (http://http://localhost/lab4_php_modular/tambah)
 - Halaman About (http://http://localhost/lab4_php_modular/about)
 
